@@ -1,3 +1,5 @@
-PROJECT_NAME = "班级项目协作看板"
-PROJECT_SLOGAN = "用 GitHub Issue 和 Pull Request 完成一次真实小组协作"
-REPOSITORY_STATUS = "初始项目已上传到 main 分支，等待组员通过 PR 补充内容。"
+# 组员A 负责修改此文件（Issue #1）
+
+PROJECT_NAME = "第3组校园活动管理看板"
+PROJECT_SLOGAN = "用 GitHub 协作完成一个可运行、可展示、可追踪的小组项目"
+REPOSITORY_STATUS = "4个组员 Pull Request 已通过 review 并合并到 main 分支。"
