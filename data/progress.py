@@ -1,6 +1,6 @@
 PROGRESS_ITEMS = [
-    {"issue": "#1", "owner": "组员 A", "title": "更新项目名称和口号", "status": "待提交 PR"},
-    {"issue": "#2", "owner": "组员 B", "title": "补全成员与分工", "status": "待提交 PR"},
-    {"issue": "#3", "owner": "组员 C", "title": "补充功能清单", "status": "待提交 PR"},
-    {"issue": "#4", "owner": "组员 D", "title": "补充协作进度和日志", "status": "待提交 PR"},
+    {"issue": "#1", "owner": "黄圣杰", "title": "完善项目名称和简介", "status": "PR #11 已合并"},
+    {"issue": "#2", "owner": "蔡逸凡", "title": "完善组员头像", "status": "PR #12 已合并"},
+    {"issue": "#3", "owner": "徐宁", "title": "添加功能列表", "status": "PR #13 已合并"},
+    {"issue": "#4", "owner": "闫书宝", "title": "添加协作流程和版本日志", "status": "PR #14 已合并"},
 ]
